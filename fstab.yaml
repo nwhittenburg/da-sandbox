@@ -2,3 +2,6 @@ mountpoints:
   /:
     url: https://content.da.live/nwhittenburg/da-sandbox/
     type: markup
+
+name: actions-template-sync
+uses: AndreasAugustin/actions-template-sync@v2.5.3
